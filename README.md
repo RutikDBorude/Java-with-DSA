@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RutikDBorude/Java-with-DSA/tree/master/0042-trapping-rain-water) |
+| [0141-linked-list-cycle](https://github.com/RutikDBorude/Java-with-DSA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/RutikDBorude/Java-with-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/RutikDBorude/Java-with-DSA/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/RutikDBorude/Java-with-DSA/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/RutikDBorude/Java-with-DSA/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/RutikDBorude/Java-with-DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/RutikDBorude/Java-with-DSA/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
