@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RutikDBorude/Java-with-DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RutikDBorude/Java-with-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/RutikDBorude/Java-with-DSA/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/RutikDBorude/Java-with-DSA/tree/master/0074-search-a-2d-matrix) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RutikDBorude/Java-with-DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/RutikDBorude/Java-with-DSA/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/RutikDBorude/Java-with-DSA/tree/master/0268-missing-number) |
 ## Binary Search
