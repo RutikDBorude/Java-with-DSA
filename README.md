@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/RutikDBorude/Java-with-DSA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/RutikDBorude/Java-with-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/RutikDBorude/Java-with-DSA/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/RutikDBorude/Java-with-DSA/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/RutikDBorude/Java-with-DSA/tree/master/0006-zigzag-conversion) |
 | [0125-valid-palindrome](https://github.com/RutikDBorude/Java-with-DSA/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/RutikDBorude/Java-with-DSA/tree/master/0344-reverse-string) |
 ## Matrix
 |  |
 | ------- |
