@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RutikDBorude/Java-with-DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/RutikDBorude/Java-with-DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RutikDBorude/Java-with-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/RutikDBorude/Java-with-DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/RutikDBorude/Java-with-DSA/tree/master/0053-maximum-subarray) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RutikDBorude/Java-with-DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RutikDBorude/Java-with-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/RutikDBorude/Java-with-DSA/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/RutikDBorude/Java-with-DSA/tree/master/0088-merge-sorted-array) |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/RutikDBorude/Java-with-DSA/tree/master/0238-product-of-array-except-self) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/RutikDBorude/Java-with-DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
